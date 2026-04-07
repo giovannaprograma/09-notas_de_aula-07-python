@@ -89,6 +89,7 @@ print("Fim")
 | 7                  | 3<br />6                        |
 | 15                 | 3<br />6<br />9<br />12<br />15 |
 
+12. Escreva um programa que tem como entrada um número inteito `contador` no intervalo [1; 10]. Quando for informado o `contador == 0` o programa deve encerrar. Quando o valor de `contador` estiver fora do intervalo, o programa deve informar que o número é inválido.
 12. Programa FizzBuzz: Escreva um programa que tem como entrada um número inteiro positivo n e imprime os inteiros de 1 a n, mas que substitui os múltiplos de 3 pela palavra Fizz, os múltiplos de 4 pela palavra Buzz e os múltiplos de 3 e 4 pela palavra FizzBuzz.
 
 | Exemplo de entrada | Saída esperada  |
